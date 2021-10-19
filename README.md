@@ -13,3 +13,5 @@
 ## Tools
 * [Teleport](https://goteleport.com/)
 * [Matrix](https://matrix.org/)
+* [Firezone](https://github.com/firezone/firezone)
+* [GnuNet](https://www.gnunet.org/en/index.html)
