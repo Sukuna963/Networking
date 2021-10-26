@@ -17,3 +17,6 @@
 * [GnuNet](https://www.gnunet.org/en/index.html)
 * [Arkime](https://arkime.com/)
 * [Kerberos](https://web.mit.edu/kerberos/)
+* [ADHCP](https://www.codelabs.ch/adhcp/)
+* [ADNS](https://www.codelabs.ch/adns/)
+* [TKM](https://www.codelabs.ch/tkm/)
