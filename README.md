@@ -20,3 +20,9 @@
 * [ADHCP](https://www.codelabs.ch/adhcp/)
 * [ADNS](https://www.codelabs.ch/adns/)
 * [TKM](https://www.codelabs.ch/tkm/)
+
+# Hacking
+
+## Tools
+* [hcxdumptool](https://github.com/ZerBea/hcxdumptool)
+* [aircrack-ng](https://www.aircrack-ng.org/)
