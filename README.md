@@ -23,6 +23,7 @@
 * [istio](https://istio.io/latest/docs/)
 * [WolfSSL](https://www.wolfssl.com/)
 * [Nebula](https://www.defined.net/#/)
+* [Shadow](https://github.com/shadow/shadow)
 
 # Hacking
 
